@@ -1,0 +1,12 @@
+{
+    "name": "mailup/mailup-extension",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"MailUp Extenstion form Magento mirror",
+    "authors":[
+        {
+            "name":"Manuele Menozzi",
+            "email":"manuele.menozzi@gmail.com"
+        }
+    ]
+}
