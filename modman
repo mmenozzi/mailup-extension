@@ -1,0 +1,13 @@
+app/code/local/MailUp/MailUpSync  app/code/local/MailUp/MailUpSync
+app/design/adminhtml/default/default/layout/mailup.xml  app/design/adminhtml/default/default/layout/mailup.xml
+app/design/adminhtml/default/default/template/mailup/mailupsync app/design/adminhtml/default/default/template/mailup/mailupsync
+app/design/frontend/base/default/layout/mailup.xml  app/design/frontend/base/default/layout/mailup.xml
+app/design/frontend/base/default/template/mailup  app/design/frontend/base/default/template/mailup
+app/design/frontend/enterprise/default/layout/mailup.xml  app/design/frontend/enterprise/default/layout/mailup.xml
+app/design/frontend/enterprise/default/template/mailup  app/design/frontend/enterprise/default/template/mailup
+app/etc/modules/MailUp_MailUpSync.xml app/etc/modules/MailUp_MailUpSync.xml
+app/locale/en_US/MailUp_MailUpSync.csv  app/locale/en_US/MailUp_MailUpSync.csv
+app/locale/it_IT/MailUp_MailUpSync.csv  app/locale/it_IT/MailUp_MailUpSync.csv
+js/mailup js/mailup
+skin/adminhtml/default/default/images/MailUp_300_200_transparent_small.png  skin/adminhtml/default/default/images/MailUp_300_200_transparent_small.png
+skin/adminhtml/default/default/mailup/mailupsync  skin/adminhtml/default/default/mailup/mailupsync
